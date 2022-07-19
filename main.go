@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fiber/req"
 	fiber "github.com/gofiber/fiber/v2"
+	"testing/req"
 )
 
 func main() {
